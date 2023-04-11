@@ -57,7 +57,7 @@
 							<manifest>
 								<addClasspath>true</addClasspath>
 								<classpathPrefix>lib/</classpathPrefix>
-								<mainClass>com.maven.jenkinDemo.App</mainClass>
+								<mainClass>com.maven.JenkinDemo.App</mainClass>
 							</manifest>
 						</archive>
 					</configuration>
