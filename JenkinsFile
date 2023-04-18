@@ -22,5 +22,10 @@ pipeline {
                         echo "Deploying in Production Area"
                   }
             }
+             stage('Deploy Qualification') {
+                  steps {
+                        echo "Deploying in Qualification Area"
+                  }
+            }
       }
 }
